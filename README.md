@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fictional-CJ
 - 👀 I’m interested in making stuff
-- 🌱 I’m currently learning Clickteam Fusion
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ...errr
 
 <!---
