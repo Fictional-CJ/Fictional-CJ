@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fictional-CJ
-- 👀 I’m interested in making stuff
+- 👀 I’m interested in making minecraft stuff
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...errr
 
